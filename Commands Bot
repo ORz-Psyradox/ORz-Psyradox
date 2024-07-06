@@ -1,0 +1,16 @@
+#	Command	Description
+1	/sponsor	Sponsor to PsyradoxBot
+2	/queryserver game_id	Query a game server (only once)
+3	/addserver game_id	Add a server to the current channel
+4	/delserver address query_port	Delete the server in the current channel
+5	/refresh	Refresh servers' messages manually in the current channel
+6	/factoryreset	Delete all servers in current guild
+7	/moveup address query_port	Move the server message upward
+8	/movedown address query_port	Move the server message downward
+9	/changestyle address query_port	Change server message style
+10	/editstyledata address query_port	Edit server message style data
+11	/switch channel address query_port	Switch the server message(s) to another channel
+12	/settimezone timezone address query_port	Set server message time zone
+13	/setclock clock_format address query_port	Set server message clock format
+14	/setlocale locale address query_port	Set server message locale
+15	/setalert address query_port	Set server status alert settings
