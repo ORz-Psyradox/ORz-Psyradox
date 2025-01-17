@@ -31,8 +31,7 @@
 ## 📬 יצירת קשר
 אם אתם מחפשים מפתח אתרים יצירתי, מעצב גרפי מוכשר או מפתח בוטים, אני כאן כדי לעזור!  
 אתם מוזמנים לפנות אלי בכל זמן.
-- **אימייל**: [orhakim4@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/username](https://www.linkedin.com/in/none)
+- **LinkedIn**: [SOON]
 - **Discord**:
 
 ---
