@@ -54,9 +54,9 @@
 
 ## 📬 איך ליצור קשר?
 אני כאן בשבילך! אם אתה מחפש מפתח אתרים יצירתי, מעצב גרפי מוכשר, או טכנאי מחשוב ותקשורת מנוסה - אל תהסס לפנות אלי:
-- 📧 **אימייל**: [email@email.com](orhakim441@gmail.com)
 - 💼 **LinkedIn**: [Soon]
 - 📱 **Discord**: [Soon]
+- 💻 **My Works**: [Soon]
 
 ---
 
